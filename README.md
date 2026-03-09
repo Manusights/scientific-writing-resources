@@ -61,3 +61,8 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 
 ## Case studies and diagrams
 See `case-studies/` and `diagrams/` for worked examples and visual workflows.
+
+
+## Quickstart and learning paths
+- `quickstart/first_30_minutes.md`
+- `learning-paths/`
