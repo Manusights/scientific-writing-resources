@@ -57,3 +57,7 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 ## Cornerstone guides
 - `guides/manuscript_clarity_system.md`
 - `guides/overclaiming_reduction_guide.md`
+
+
+## Case studies and diagrams
+See `case-studies/` and `diagrams/` for worked examples and visual workflows.
