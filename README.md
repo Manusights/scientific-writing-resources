@@ -52,3 +52,8 @@ Suggestions are welcome through GitHub Issues and Pull Requests.
 - `faq/how_to_reduce_reviewer_pushback_on_methods.md`
 - `faq/how_to_rewrite_hyped_claims.md`
 - `faq/how_to_prepare_a_final_pre_submit_pass.md`
+
+
+## Cornerstone guides
+- `guides/manuscript_clarity_system.md`
+- `guides/overclaiming_reduction_guide.md`
